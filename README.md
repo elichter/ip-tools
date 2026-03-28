@@ -1,4 +1,3 @@
-# ip-tools
 # 🔬 IP Intelligence Tools
 
 <div align="center">
